@@ -1,4 +1,5 @@
 function findNReplace(){
+  //vc = company name, vr = role, vl = location, fn = first name/full name
     vc = "";
     vr = "";
     vl = "";
